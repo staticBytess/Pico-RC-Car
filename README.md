@@ -1,4 +1,4 @@
-Welcome to the RC-Car-Pico project! This project was completed in 2023, but I am now just posting it to github a year later.
+Welcome to the RC Car Pico project! This project was completed in 2023, but I am now just posting it to github a year later.
 Here is what the final model looks like:
 
 ![](https://staticbytess.github.io/assets/rcCar/finalBuild.jpg)
