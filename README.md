@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style="width: 20%; display: inline-block;" data-target="animated-image.originalImage">
 Welcome to the RC Car Pico project! This project was completed in 2023, but I am now just posting it to github a year later.
 Here is what the final model looks like:
 
